@@ -1,3 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Приветственный GIF" width="300"/>
+  <img src="https://giffiles.alphacoders.com/220/220890.gif" alt="Приветственный GIF" width="300"/>
 </div>
+
+
